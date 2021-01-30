@@ -23,18 +23,18 @@ This command opens, when enabled in settings a shared inventory for every team.
 
 ### /preset
 **The preset system is getting a overhaul in the future.**
-Currently available presets:
- - easy (Relatively easy to get items)
- - nether (Nether items, a bit more difficult)
-Subcommands
-#### /preset reset
-Removes all items to choose from. To start a game, at least 9 items have to be set.
-#### /preset add <preset-name>
-Adds the items of a preset to the item list.
-#### /preset set <preset-name>
-Explicitly sets the item list to a preset.
-#### /preset info
-Shows all selected presets.
+  Currently available presets:
+   - easy (Relatively easy to get items)
+   - nether (Nether items, a bit more difficult)
+  Subcommands
+  #### /preset reset
+    Removes all items to choose from. To start a game, at least 9 items have to be set.
+  #### /preset add <preset-name>
+    Adds the items of a preset to the item list.
+  #### /preset set <preset-name>
+    Explicitly sets the item list to a preset.
+  #### /preset info
+    Shows all selected presets.
 
 ### /teams
 Views all teams with their players.
