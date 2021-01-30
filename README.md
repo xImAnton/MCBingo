@@ -1,5 +1,6 @@
 # MCBingo
-Very ugly coded Minecraft Bingo spigot plugin for Minecraft Version: **1.16.1**
+Very ugly coded Minecraft Bingo spigot plugin for Minecraft Version: **1.16.1**  
+I apologize completely for the ugly code. I wrote this a year ago.  
 
 ## What is Minecraft Bingo?
 Minecraft Bingo is a minigame in which each team has to find certain items. The first to find all random generated items wins.
