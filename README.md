@@ -21,7 +21,7 @@ To see the items the players have to find, use /bingo.
 This command opens, when enabled in settings a shared inventory for every team.
 
 ### /preset
-**The preset system is getting a overhaul in the future.**
+**The preset system is getting a overhaul in the future.**  
 Currently available presets:
  - easy (Relatively easy to get items)
  - nether (Nether items, a bit more difficult)
