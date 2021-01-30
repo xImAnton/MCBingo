@@ -1,0 +1,17 @@
+settings:
+  teambpsize: 18
+  teamsize: 1
+  keepinv: true
+  timer: true
+  pvp: false
+  advancements: false
+  slots: 20
+  items: 9
+  randomteams: false
+  trackstats: true
+  teamtp: false
+  damage: true
+  top: true
+  hunger: true
+  spreadteams: false
+presets:
