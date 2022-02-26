@@ -1,0 +1,24 @@
+name: Bingo
+version: ${project.version}
+main: de.ximanton.bingo.Main
+api-version: 1.16
+authors: [xImAnton_]
+description: Bingo Plug-In von xImAnton_
+commands:
+  bingo:
+    descrpition: Zeigt die Bingo-Karte
+  teams:
+    description: Zeigt alle Bingo-Teams und deren Mitglieder an
+  join:
+    description: Lässt dich ein Bingo-Team betreten
+  backpack:
+    description: Zeigt das Team-Backpack an, sofoern dies aktiviert ist
+    aliases: [bp]
+  random:
+    description: Generiert einen Random Spielernamen
+  settings:
+    description: Zeigt die Bingo-Einstellungen
+  top:
+    description: Teleports the Player to the top
+  teamtp:
+    description: Teleportiert den Spieler zu einen Mitspieler im Team.

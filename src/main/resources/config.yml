@@ -1,0 +1,208 @@
+settings:
+  teambpsize: 18
+  teamsize: 1
+  keepinv: true
+  timer: true
+  pvp: false
+  advancements: false
+  slots: 20
+  items: 9
+  randomteams: false
+  trackstats: true
+  teamtp: false
+  damage: true
+  top: true
+  hunger: true
+  spreadteams: false
+presets:
+  name:
+    name: "Easy"
+    items:
+      - STONE
+      - GRANITE
+      - DIORITE
+      - ANDESITE
+      - POLISHED_ANDESITE
+      - POLISHED_DIORITE
+      - POLISHED_GRANITE
+      - DIRT
+      - COARSE_DIRT
+      - COBBLESTONE
+      - OAK_PLANKS
+      - SPRUCE_PLANKS
+      - BIRCH_PLANKS
+      - DARK_OAK_PLANKS
+      - OAK_SAPLING
+      - SAND
+      - GRAVEL
+      - IRON_ORE
+      - GOLD_ORE
+      - BIRCH_LOG
+      - OAK_WOOD
+      - SPRUCE_LEAVES
+      - GLASS
+      - LAPIS_BLOCK
+      - DISPENSER
+      - SANDSTONE
+      - NOTE_BLOCK
+      - PISTON
+      - POPPY
+      - DANDELION
+      - BOOKSHELF
+      - TNT
+      - BRICKS
+      - SMOOTH_STONE
+      - CHEST
+      - FURNACE
+      - LEVER
+      - LADDER
+      - RAIL
+      - REDSTONE_TORCH
+      - CLAY
+      - CARVED_PUMPKIN
+      - BIRCH_TRAPDOOR
+      - BRICK_STAIRS
+      - HOPPER
+      - LIGHT_BLUE_TERRACOTTA
+      - COAL_BLOCK
+      - SUNFLOWER
+      - PURPLE_GLAZED_TERRACOTTA
+      - LIGHT_GRAY_CONCRETE
+      - FLINT_AND_STEEL
+      - FISHING_ROD
+      - COOKED_PORKCHOP
+      - WATER_BUCKET
+      - EGG
+      - COOKED_COD
+      - ORANGE_BED
+      - ROTTEN_FLESH
+      - SPRUCE_BOAT
+      - CAMPFIRE
+      - FLETCHING_TABLE
+      - SMITHING_TABLE
+      - ACTIVATOR_RAIL
+      - DETECTOR_RAIL
+      - DIAMOND
+      - JUKEBOX
+      - POWERED_RAIL
+      - MINECART
+      - IRON_TRAPDOOR
+      - BONE_BLOCK
+      - FEATHER
+      - PAINTING
+      - BOOK
+      - CAKE
+      - DRIED_KELP
+      - TARGET
+    icon: OAK_SAPLING
+  nether:
+    name: "Nether"
+    items:
+      - CRYING_OBSIDIAN
+      - BLACKSTONE
+      - GOLD_NUGGET
+      - NETHERRACK
+      - RESPAWN_ANCHOR
+      - WARPED_STEM
+      - CRIMSON_STEM
+      - STRIPPED_WARPED_HYPHAE
+      - GOLD_BLOCK
+      - CRIMSON_DOOR
+      - BLAZE_ROD
+      - MAGMA_CREAM
+      - BASALT
+      - BONE
+      - QUARTZ
+      - QUARTZ_BLOCK
+      - NETHER_BRICKS
+      - GLOWSTONE
+      - GLOWSTONE_DUST
+      - WARPED_FENCE_GATE
+      - TWISTING_VINES
+      - WEEPING_VINES
+      - SHROOMLIGHT
+      - CRIMSON_FUNGUS
+      - WARPED_FUNGUS
+      - SOUL_SAND
+      - SOUL_SOIL
+      - GHAST_TEAR
+      - BONE_BLOCK
+      - FIRE_CHARGE
+      - POLISHED_BLACKSTONE_BRICKS
+    icon: NETHERRACK
+  BASALT:
+    icon: BASALT
+    items:
+      - BASALT
+  BONE:
+    icon: BONE
+    items:
+      - BONE
+  QUARTZ:
+    icon: QUARTZ
+    items:
+      - QUARTZ
+  QUARTZ_BLOCK:
+    icon: QUARTZ_BLOCK
+    items:
+      - QUARTZ_BLOCK
+  NETHER_BRICKS:
+    icon: NETHER_BRICKS
+    items:
+      - NETHER_BRICKS
+  GLOWSTONE:
+    icon: GLOWSTONE
+    items:
+      - GLOWSTONE
+  GLOWSTONE_DUST:
+    icon: GLOWSTONE_DUST
+    items:
+      - GLOWSTONE_DUST
+  WARPED_FENCE_GATE:
+    icon: WARPED_FENCE_GATE
+    items:
+      - WARPED_FENCE_GATE
+  TWISTING_VINES:
+    icon: TWISTING_VINES
+    items:
+      - TWISTING_VINES
+  WEEPING_VINES:
+    icon: WEEPING_VINES
+    items:
+      - WEEPING_VINES
+  SHROOMLIGHT:
+    icon: SHROOMLIGHT
+    items:
+      - SHROOMLIGHT
+  CRIMSON_FUNGUS:
+    icon: CRIMSON_FUNGUS
+    items:
+      - CRIMSON_FUNGUS
+  WARPED_FUNGUS:
+    icon: WARPED_FUNGUS
+    items:
+      - WARPED_FUNGUS
+  SOUL_SAND:
+    icon: SOUL_SAND
+    items:
+      - SOUL_SAND
+  SOUL_SOIL:
+    icon: SOUL_SOIL
+    items:
+      - SOUL_SOIL
+  GHAST_TEAR:
+    icon: GHAST_TEAR
+    items:
+      - GHAST_TEAR
+  BONE_BLOCK:
+    icon: BONE_BLOCK
+    items:
+      - BONE_BLOCK
+  FIRE_CHARGE:
+    icon: FIRE_CHARGE
+    items:
+      - FIRE_CHARGE
+  POLISHED_BLACKSTONE_BRICKS:
+    icon: POLISHED_BLACKSTONE_BRICKS
+    items:
+      - POLISHED_BLACKSTONE_BRICKS
